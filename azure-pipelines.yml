@@ -1,8 +1,6 @@
 trigger:
 - '*'
 
-pool: my-personal-computer
-
 variables:
   buildConfiguration: 'Release'
   releaseBranchName: 'release'
